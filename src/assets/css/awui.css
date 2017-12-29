@@ -1,0 +1,68 @@
+.bmyy {
+  border-bottom: 0.013333rem solid #d9d9d9;
+}
+.flex {
+  display: -webkit-flex;
+  display: flex;
+}
+.rel {
+  position: relative;
+}
+.abs {
+  position: absolute;
+}
+.fix {
+  position: fixed;
+}
+.fleft {
+  float: left;
+}
+.fright {
+  float: right;
+}
+.show {
+  display: block;
+}
+.hide {
+  display: none;
+}
+.db {
+  display: block;
+}
+.dib {
+  display: inline-block;
+}
+.bsbb {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.scrolling {
+  -webkit-overflow-scrolling: touch;
+}
+.scrollNo {
+  -webkit-overflow-scrolling: touch;
+  overflow: hidden;
+}
+.scrollX {
+  -webkit-overflow-scrolling: touch;
+  overflow-x: scroll;
+  overflow-y: hidden;
+}
+.scrollY {
+  -webkit-overflow-scrolling: touch;
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
+.bottomyy {
+  position: relative;
+}
+.bottomyy:after {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  content: ' ';
+  width: 100%;
+  height: 1px;
+  background-color: #d9d9d9;
+}
