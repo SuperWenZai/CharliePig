@@ -4,7 +4,7 @@
 
 # 示例（image）
 
-
+![image](https://github.com/SuperWenZai/CharliePig/blob/master/static/CharliePig.png)
 
 # Build Setup
 
