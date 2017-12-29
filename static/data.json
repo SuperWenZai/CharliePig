@@ -1,0 +1,367 @@
+{
+  "code": 200,
+  "msg": "success",
+  "result": {
+    "index_header": [{
+        "text": "推荐",
+        "url": "/home/recommend"
+      },
+      {
+        "text": "新品",
+        "url": "/home/aa"
+      },
+      {
+        "text": "居家",
+        "url": "/home/bb"
+      },
+      {
+        "text": "推荐",
+        "url": "/home/cc"
+      },
+      {
+        "text": "餐厨",
+        "url": "/home/dd"
+      },
+      {
+        "text": "服装",
+        "url": "/home/ee"
+      },
+      {
+        "text": "美护",
+        "url": "/home/ff"
+      },
+      {
+        "text": "出行",
+        "url": "/home/gg"
+      },
+      {
+        "text": "电器",
+        "url": "/home/hh"
+      },
+      {
+        "text": "系列",
+        "url": "/home/ii"
+      }
+    ],
+    "index_footer": [{
+        "pic": "../static/smImages/icon-home-active.png",
+        "text": "首页",
+        "url": "/home"
+      },
+      {
+        "pic": "../static/smImages/icon-rect.png",
+        "text": "专题",
+        "url": "/aa"
+      },
+      {
+        "pic": "../static/smImages/icon-category.png",
+        "text": "分类",
+        "url": "/bb"
+      },
+      {
+        "pic": "../static/smImages/icon-cart.png",
+        "text": "购物车",
+        "url": "/cc"
+      },
+      {
+        "pic": "../static/smImages/icon-user.png",
+        "text": "我的",
+        "url": "/dd"
+      }
+    ],
+    "index_imgUrl": [{
+        "pic": "http://s2.hgcang.com/bsimg/ec/public/images/f2/f3/f2f358c31761b10f8c20ecb84261a81f.png",
+        "text": "首页"
+      },
+      {
+        "pic": "http://s1.hgcang.com/bsimg/ec/public/images/8c/6e/8c6e522bebd95314f106fcb1e091425a.jpg?1510147239#w",
+        "text": "专题"
+      },
+      {
+        "pic": "http://s2.hgcang.com/bsimg/ec/public/images/6a/67/6a677b928b0ca39c21e47a40409032e5.jpg?x-oss-process=style/high",
+        "text": "分类"
+      },
+      {
+        "pic": "http://s1.hgcang.com/bsimg/ec/public/images/5e/8d/5e8dd88bfe8383ccee092154f2dc2aac.jpg?x-oss-process=style/high",
+        "text": "购物车"
+      }
+    ],
+    "index_brand": {
+      "brand_name": "品牌甄选",
+      "brand_link": "",
+      "brand": [{
+          "id": "1504691947719",
+          "link": "http://s1.hgcang.com/bsimg/ec/public/images/6f/ec/6feca9d695e85c6ee916826cf1c2a579.jpg?1504692017#w",
+          "linktarget": "http://t-www.miniso.cn/wap/product-315.html",
+          "name": "苹果官方认证",
+          "min_price": "39.9",
+          "tag": "热销",
+          "product_id": "315"
+        },
+        {
+          "id": "1504691949103",
+          "link": "http://s1.hgcang.com/bsimg/ec/public/images/e1/15/e11528a2bffe3106356b502ef0f3ffb4.jpg?1504692082#w",
+          "linktarget": "http://t-www.miniso.cn/wap/product-83.html",
+          "name": "北欧原创设计",
+          "min_price": "20",
+          "tag": "热销",
+          "product_id": "83"
+        },
+        {
+          "id": "1504691949895",
+          "link": "http://s1.hgcang.com/bsimg/ec/public/images/be/8e/be8e2417594ba0fd27ea8f62ba40e2e5.jpg?1504692135#w",
+          "linktarget": "http://t-www.miniso.cn/wap/product-239.html",
+          "name": "国宴专用款",
+          "min_price": "29.9",
+          "tag": "热销",
+          "product_id": "239"
+        },
+        {
+          "id": "1504691950600",
+          "link": "http://s1.hgcang.com/bsimg/ec/public/images/26/bc/26bc13aaaba504a6f55674fec240595c.jpg?1504692194#w",
+          "linktarget": "http://t-www.miniso.cn/wap/product-47.html",
+          "name": "Dior原料供应商",
+          "min_price": "39",
+          "tag": "热销",
+          "product_id": "47"
+        }
+      ]
+    },
+    "index_new_goods": [{
+        "goods_id": "103",
+        "product_id": "529",
+        "image_default": "http://s1.hgcang.com/bsimg/ec/public/images/f6/ed/f6eda84af71723938837fc2105709e48.png?1505459106#h",
+        "default_image_tag": "四色可选",
+        "brief": "",
+        "product_name": "军绿色旅行被",
+        "price": "85.000",
+        "tags": [{
+            "tag_name": "新品",
+            "tag_bgcolor": "#9e3449",
+            "tag_fgcolor": "#ffffff"
+          },
+          {
+            "tag_name": "特惠",
+            "tag_bgcolor": "#0080ff",
+            "tag_fgcolor": "#ffffff"
+          }
+        ]
+      },
+      {
+        "goods_id": "97",
+        "product_id": "529",
+        "image_default": "http://s1.hgcang.com/bsimg/ec/public/images/f6/d8/f6d80df35600c145d6169eca7acd017a.png?1504868192#h",
+        "default_image_tag": "精致哈哈",
+        "brief": "简约小巧，经久耐用",
+        "product_name": "4支装 公爵甜品叉水果叉",
+        "price": "85.000",
+        "tags": []
+      },
+      {
+        "goods_id": "96",
+        "product_id": "529",
+        "image_default": "http://s1.hgcang.com/bsimg/ec/public/images/e3/05/e3057f07f0bfc4a0371b3d051ae50a2d.jpg?1504867888#h",
+        "default_image_tag": "四色可选",
+        "brief": "厚重质感，久用如新",
+        "product_name": "公爵系列西餐具 四件套",
+        "price": "85.000",
+        "tags": []
+      },
+      {
+        "goods_id": "95",
+        "product_id": "529",
+        "image_default": "http://s1.hgcang.com/bsimg/ec/public/images/0e/f5/0ef5681b623fd23e36556c67bf89dfdb.jpg?1504867503#h",
+        "default_image_tag": "2色可选",
+        "brief": "一套青瓷，吃好饭！",
+        "product_name": "4件装 一人食青瓷餐具组合（12字）",
+        "price": "85.000",
+        "tags": []
+      },
+      {
+        "goods_id": "94",
+        "product_id": "529",
+        "image_default": "http://s1.hgcang.com/bsimg/ec/public/images/e5/30/e530fc019d38a276ba776cdfd3af2ab5.png?1504867084#h",
+        "default_image_tag": "",
+        "brief": "温润金色，光泽明亮",
+        "product_name": "2支装 秋月鎏光甜品叉",
+        "price": "85.000",
+        "tags": []
+      },
+      {
+        "goods_id": "93",
+        "product_id": "529",
+        "image_default": "http://s1.hgcang.com/bsimg/ec/public/images/3f/80/3f80ea8ba39aab6f4b357444d86e52b5.png?1504866723#h",
+        "default_image_tag": "",
+        "brief": "原创设计，现代时尚",
+        "product_name": "趣味粉彩陶瓷马克杯",
+        "price": "85.000",
+        "tags": []
+      },
+      {
+        "goods_id": "92",
+        "product_id": "529",
+        "image_default": "http://s1.hgcang.com/bsimg/ec/public/images/c5/bd/c5bd7712a88867e12ce55abc5784c48e.png?1504866420#h",
+        "default_image_tag": "星巴克",
+        "brief": "原创设计，双层隔热",
+        "product_name": "秋月鎏光双层玻璃杯",
+        "price": "85.000",
+        "tags": []
+      },
+      {
+        "goods_id": "91",
+        "product_id": "529",
+        "image_default": "http://s1.hgcang.com/bsimg/ec/public/images/4b/31/4b31d63e46736fff2eafc92503999361.png?1504864751#h",
+        "default_image_tag": "1",
+        "brief": "头层牛皮，透气吸湿",
+        "product_name": "儒沐轻雅简风牛皮拖鞋",
+        "price": "85.000",
+        "tags": []
+      }
+    ],
+    "index_hot_goods": [{
+        "goods_id": "13",
+        "product_id": "181",
+        "image_default": "http://s1.hgcang.com/bsimg/ec/public/images/c5/5e/c55ec3ffc910dee24788539837656de9.png?1505726166#h",
+        "default_image_tag": "",
+        "brief": "12小时长效保温，便携轻巧",
+        "product_name": "12小时长效时尚超轻量保温杯",
+        "price": "10.000",
+        "tags": []
+      },
+      {
+        "goods_id": "19",
+        "product_id": "181",
+        "image_default": "http://s1.hgcang.com/bsimg/ec/public/images/1f/52/1f52a037d07c8f685053ff03ecc91b06.png?1505289216#h",
+        "default_image_tag": "浪漫温馨",
+        "brief": "光线柔和，圆润小巧",
+        "product_name": "节能环保小夜灯",
+        "price": "10.000",
+        "tags": []
+      },
+      {
+        "goods_id": "28",
+        "product_id": "181",
+        "image_default": "http://s1.hgcang.com/bsimg/ec/public/images/aa/e9/aae90fd509b2dfd9ede903314bc8c4b6.png?1505289317#h",
+        "default_image_tag": "三色可选",
+        "brief": "透气舒适，耐穿耐磨",
+        "product_name": "3双装特种纱素色女士船袜",
+        "price": "10.000",
+        "tags": []
+      },
+      {
+        "goods_id": "30",
+        "product_id": "181",
+        "image_default": "http://s1.hgcang.com/bsimg/ec/public/images/56/fa/56fa6e9eb156014d0a33c268cee60625.jpg?1503050630#h",
+        "default_image_tag": "一色可选",
+        "brief": "精致小巧  无毒环保",
+        "product_name": "简约便携旅行套装5件套",
+        "price": "10.000",
+        "tags": []
+      },
+      {
+        "goods_id": "15",
+        "product_id": "181",
+        "image_default": "http://s1.hgcang.com/bsimg/ec/public/images/11/80/1180330d25a0f21e7cf59a4ba7d13f3e.jpg?1504763903#h",
+        "default_image_tag": "",
+        "brief": "小巧便携，轻巧随行",
+        "product_name": "可充电多功能便携风扇",
+        "price": "10.000",
+        "tags": []
+      },
+      {
+        "goods_id": "16",
+        "product_id": "181",
+        "image_default": "http://s1.hgcang.com/bsimg/ec/public/images/58/51/58515b8d51367fb9ffc2147f8e26947c.jpg?1504688777#h",
+        "default_image_tag": "",
+        "brief": "轻巧便携，安全健康",
+        "product_name": "便携简约经典保温杯300ml",
+        "price": "10.000",
+        "tags": []
+      },
+      {
+        "goods_id": "20",
+        "product_id": "181",
+        "image_default": "http://s1.hgcang.com/bsimg/ec/public/images/0b/c3/0bc326d62d773518f3d22d17d98ddb98.jpg?1504688897#h",
+        "default_image_tag": "",
+        "brief": "防汗防水，不易晕妆",
+        "product_name": "持久不脱妆自动眉笔",
+        "price": "10.000",
+        "tags": []
+      }
+    ],
+    "topic_list": {
+      "title": "“棉棉”爱意，100%纯棉的爱",
+      "shorttitle": "",
+      "id": "6",
+      "litpic": "http://s1.hgcang.com/bsimg/dede_uploads/allimg/170831/1-1FS10940210-L.jpg",
+      "writer": "名创优选",
+      "picname_writer": "http://s1.hgcang.com/bsimg/dede_uploads/allimg/170828/1-1FRQUG90-L.png",
+      "description": "简单朴素何尝不好，舒服贴心才是王道",
+      "redirecturl": "",
+      "arcrank": "0",
+      "starting_fare": 19
+    },
+    "index_guess_ulike": [{
+        "goods_id": "24",
+        "product_id": "330",
+        "image_default": "http://s1.hgcang.com/bsimg/ec/public/images/b4/3d/b43d37937e8358d4db8bc2bcca682e97.jpg?1504689190#h",
+        "default_image_tag": "",
+        "brief": "凉爽触感，吸汗透气",
+        "product_name": "修身显瘦天然有机棉女士吊带衫",
+        "price": "29.900",
+        "tags": []
+      },
+      {
+        "goods_id": "40",
+        "product_id": "330",
+        "image_default": "http://s1.hgcang.com/bsimg/ec/public/images/10/8e/108e2924d737f8d518207315e106f3fb.jpg?1504748770#h",
+        "default_image_tag": "",
+        "brief": "日本进口升温纤维",
+        "product_name": "升温男士长袖圆领打底衣",
+        "price": "29.900",
+        "tags": []
+      },
+      {
+        "goods_id": "62",
+        "product_id": "330",
+        "image_default": "http://s1.hgcang.com/bsimg/ec/public/images/b3/1e/b31ef6304d1b887605e3754a6dfd5947.jpg?1504774956#h",
+        "default_image_tag": "",
+        "brief": "日式风格，舒适透气",
+        "product_name": "3双装 日式条纹女士浅口短袜",
+        "price": "29.900",
+        "tags": []
+      },
+      {
+        "goods_id": "15",
+        "product_id": "330",
+        "image_default": "http://s1.hgcang.com/bsimg/ec/public/images/11/80/1180330d25a0f21e7cf59a4ba7d13f3e.jpg?1504763903#h",
+        "default_image_tag": "",
+        "brief": "小巧便携，轻巧随行",
+        "product_name": "可充电多功能便携风扇",
+        "price": "29.900",
+        "tags": []
+      },
+      {
+        "goods_id": "25",
+        "product_id": "330",
+        "image_default": "http://s1.hgcang.com/bsimg/ec/public/images/97/50/9750ea1fc91cfa8c54dc4e904c9aebcf.jpg?1504689247#h",
+        "default_image_tag": "",
+        "brief": "完美贴合男性身体线条",
+        "product_name": "男士修身运动天然棉背心",
+        "price": "29.900",
+        "tags": []
+      },
+      {
+        "goods_id": "31",
+        "product_id": "330",
+        "image_default": "http://s1.hgcang.com/bsimg/ec/public/images/26/dd/26dd534f5a5715646a0d46651f46038b.jpg?1504755410#h",
+        "default_image_tag": "",
+        "brief": "轻薄透气 性感无痕",
+        "product_name": "3条装细条纹无痕内裤",
+        "price": "29.900",
+        "tags": []
+      }
+    ]
+
+  }
+}
