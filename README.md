@@ -2,6 +2,10 @@
 
 使用vue搭建的一个电商wap端的Demo。
 
+# 技术栈
+
+vue + vue-awesome-swiper + vue-router + vuex + less + webpack + axios
+
 # 示例（image）
 
 ![image](https://github.com/SuperWenZai/CharliePig/blob/master/static/CharliePig.png)
