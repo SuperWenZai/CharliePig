@@ -1,0 +1,41 @@
+.sm-contain-recommend {
+  width: 100%;
+}
+.sm-contain-recommend .sm-banne {
+  width: 100%;
+}
+.sm-contain-recommend .sm-floor {
+  margin-bottom: .8rem;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  overflow: hidden;
+}
+.sm-contain-recommend .sm-floor .sm-content {
+  height: 2.8rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  overflow: hidden;
+}
+.sm-contain-recommend .sm-floor .sm-content .item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex: 1;
+}
+.sm-contain-recommend .sm-floor .sm-content .item .sm-icon {
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 1.2rem;
+  width: 1.2rem;
+  vertical-align: middle;
+  margin-right: .2rem;
+}
+.sm-contain-recommend .sm-floor .sm-content .item .sm-icon-pix {
+  background-image: url('../../static/smImages/下载.png');
+}
+.sm-contain-recommend .sm-floor .sm-content .item span {
+  color: #333333;
+  font-size: 1rem;
+}
